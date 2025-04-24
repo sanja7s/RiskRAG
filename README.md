@@ -11,6 +11,10 @@ This repository contains two main components:
 - **retriever** — code for fetching and embedding risk-related data.
 - **generator** — code for generating structured risk reports based on retrieved information.
 
+## Project Page
+
+Live demo and project details available at: [https://social-dynamics.net/ai-risks/card/](https://social-dynamics.net/ai-risks/card/)
+
 ## Installation
 
 1. Clone the repo:
@@ -60,13 +64,16 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 
 If you use this code, please cite:
 ```bibtex
-@misc{rao2025riskrag,
-  title={RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting},
-  author={Rao, Pooja S. B. and Šćepanović, Sanja and Zhou, Ke and Bogucka, Edyta Paulina and Quercia, Daniele},
-  year={2025},
-  eprint={2504.08952},
-  archivePrefix={arXiv},
-  primaryClass={cs.SE}
+@inproceedings{rao2025riskrag,
+  author    = {Rao, Pooja S.~B. and {\v{S}}{\'c}epanovi{\'c}, Sanja and Zhou, Ke and Bogucka, Edyta and Quercia, Daniele},
+  title     = {{RiskRAG}: {A} Data-Driven Solution for Improved {AI} Model Risk Reporting},
+  booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25) (to appear)},
+  pages     = {1--26},
+  year      = {2025},
+  month     = apr,
+  address   = {Yokohama, Japan},
+  publisher = {ACM},
+  doi       = {10.1145/3706598.3713979}
 }
 ```
 
