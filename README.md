@@ -1,10 +1,10 @@
 # RiskRAG
 
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2504.08952-blue)](https://arxiv.org/abs/2504.08952)
+[![Paper](https://img.shields.io/badge/paper-ACM%20DOI%3A10.1145%2F3706598.3713979-blue)](https://dl.acm.org/doi/10.1145/3706598.3713979)
 
 ## Overview
 
-RiskRAG is a retrieval-augmented generation tool for AI model risk reporting, as described in the paper [Rao et al., 2025](https://arxiv.org/abs/2504.08952). It helps identify, contextualize, and prioritize model-specific risks, offering actionable mitigation strategies.
+RiskRAG is a retrieval-augmented generation tool for AI model risk reporting, as described in the paper [Rao et al., 2025](https://dl.acm.org/doi/10.1145/3706598.3713979). It helps identify, contextualize, and prioritize model-specific risks, offering actionable mitigation strategies.
 
 This repository contains two main components:
 
@@ -13,7 +13,7 @@ This repository contains two main components:
 
 ## Project Page
 
-Project details available at: [https://social-dynamics.net/ai-risks/card/](https://social-dynamics.net/ai-risks/card/)
+Live demo and project details available at: [https://social-dynamics.net/ai-risks/card/](https://social-dynamics.net/ai-risks/card/)
 
 ## Installation
 
@@ -67,7 +67,7 @@ If you use this code, please cite:
 @inproceedings{rao2025riskrag,
   author    = {Rao, Pooja S.~B. and {\v{S}}{\'c}epanovi{\'c}, Sanja and Zhou, Ke and Bogucka, Edyta and Quercia, Daniele},
   title     = {{RiskRAG}: {A} Data-Driven Solution for Improved {AI} Model Risk Reporting},
-  booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25) (to appear)},
+  booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25)},
   pages     = {1--26},
   year      = {2025},
   month     = apr,
