@@ -13,7 +13,7 @@ This repository contains two main components:
 
 ## Project Page
 
-Live demo and project details available at: [https://social-dynamics.net/ai-risks/card/](https://social-dynamics.net/ai-risks/card/)
+Project details available at: [https://social-dynamics.net/ai-risks/card/](https://social-dynamics.net/ai-risks/card/)
 
 ## Installation
 
